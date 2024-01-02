@@ -1,0 +1,3 @@
+ } else {
+                println!("Unfortunately, you've run out of attempts. The secret word was {}.", secret_word);
+            }
